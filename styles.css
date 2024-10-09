@@ -15,6 +15,10 @@ hr {
   width: 220%;
 }
 
+.user_dropdown{
+  z-index: 5;
+}
+
 /* Main White Part */
 .main_body {
   background-color: #FDFDFD;
